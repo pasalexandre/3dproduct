@@ -1,0 +1,36 @@
+@charset "utf-8";
+.Title1 {
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: left;
+    margin-top: 10px;
+    height: 53px;
+    text-indent: 20px;
+    max-height: 44px;
+}
+.Link1 {
+    background-color: #167BDF;
+    height: 57px;
+    min-height: 0px;
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: xx-large;
+    text-align: left;
+    margin-top: -4px;
+    text-indent: 20px;
+}
+.Img1 {
+    background-color: #F2F2F2;
+    margin-top: -21px;
+}
+.Footer1 {
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #167BDF;
+    height: 25px;
+    margin-top: -33px;
+    text-indent: 20px;
+}
