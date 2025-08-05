@@ -3,15 +3,12 @@
     color: #FFFFFF;
     font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: left;
-    margin-top: 10px;
-    height: 53px;
+    height: 0px;
     text-indent: 20px;
     max-height: 44px;
 }
 .Link1 {
     background-color: #167BDF;
-    height: 57px;
-    min-height: 0px;
     color: #FFFFFF;
     font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-style: normal;
@@ -19,18 +16,31 @@
     font-weight: bold;
     font-size: xx-large;
     text-align: left;
-    margin-top: -4px;
+    margin-top: 9px;
     text-indent: 20px;
+    height: 49px;
 }
 .Img1 {
     background-color: #F2F2F2;
-    margin-top: -21px;
+    margin-top: 3px;
 }
 .Footer1 {
     color: #FFFFFF;
     font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
     background-color: #167BDF;
-    height: 25px;
+    height: 40px;
     margin-top: -33px;
     text-indent: 20px;
+    font-size: large;
+}
+.Table1 {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #167BDF;
+    color: #FFFFFF;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+}
+.Img2 {
+    margin-top: -5px;
+
 }
