@@ -44,3 +44,29 @@
     margin-top: -5px;
 
 }
+.Institu {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    width: 1335px;
+    text-align: justify;
+    text-indent: 50px;
+    font-size: x-large;
+    margin-top: 50px;
+}
+.Institu2 {
+    width: 1335px;
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: left;
+    text-indent: 20px;
+    margin-top: 50px;
+}
+.Institu0 {
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bolder;
+    text-indent: 50px;
+    margin-top: 50px;
+}
